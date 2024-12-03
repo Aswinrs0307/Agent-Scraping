@@ -1,0 +1,35 @@
+Input Fields:
+{'id': '__VIEWSTATE', 'name': '__VIEWSTATE', 'class': None, 'type': 'hidden'}
+{'id': '__VIEWSTATEGENERATOR', 'name': '__VIEWSTATEGENERATOR', 'class': None, 'type': 'hidden'}
+{'id': '__PREVIOUSPAGE', 'name': '__PREVIOUSPAGE', 'class': None, 'type': 'hidden'}
+{'id': '__EVENTVALIDATION', 'name': '__EVENTVALIDATION', 'class': None, 'type': 'hidden'}
+{'id': 'ctl00_cphMyMasterCentral_ucSearch_optStartMatch', 'name': 'ctl00$cphMyMasterCentral$ucSearch$Group1', 'class': None, 'type': 'radio'}
+{'id': 'ctl00_cphMyMasterCentral_ucSearch_optEndMatch', 'name': 'ctl00$cphMyMasterCentral$ucSearch$Group1', 'class': None, 'type': 'radio'}
+{'id': 'ctl00_cphMyMasterCentral_ucSearch_optSoundLike', 'name': 'ctl00$cphMyMasterCentral$ucSearch$optSoundLike', 'class': None, 'type': 'checkbox'}
+{'id': 'ctl00_cphMyMasterCentral_ucSearch_txtName', 'name': 'ctl00$cphMyMasterCentral$ucSearch$txtName', 'class': None, 'type': 'text'}
+{'id': 'ctl00_cphMyMasterCentral_ucSearch_txtNumber', 'name': 'ctl00$cphMyMasterCentral$ucSearch$txtNumber', 'class': None, 'type': 'text'}
+
+Buttons:
+
+Links:
+{'href': '#ctl00_Menu1_SkipLink', 'text': ''}
+{'href': 'Default.aspx', 'text': 'Services'}
+{'href': 'SearchForm.aspx?sc=0', 'text': 'Search'}
+{'href': 'https://eforms.eservices.cyprus.gov.cy/MCIT/RCOR/OrganisationFileSearch', 'text': 'Study File'}
+{'href': 'SearchForm.aspx?sc=1', 'text': 'Annual Company Fee'}
+{'href': 'Restricted/Basket.aspx', 'text': 'Workspace'}
+{'href': 'CertificateValidationNew.aspx', 'text': 'Confirmation of Authenticity'}
+{'href': 'OrganizationNameExamination.aspx', 'text': 'Results of Name Examination'}
+{'href': 'https://efiling.drcor.mcit.gov.cy/drcorprivate/login/authenticate.aspx', 'text': 'Electronic Filing'}
+{'href': None, 'text': ''}
+{'href': None, 'text': 'Ελληνικά'}
+{'href': None, 'text': 'English'}
+{'href': None, 'text': 'Türkçe'}
+{'href': "javascript:__doPostBack('ctl00$lnkLoginStatus','')", 'text': 'Login'}
+{'href': 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ltBasketItems", "", false, "", "ManageOrders.aspx", false, true))', 'text': 'Orders Basket (0)'}
+{'href': "javascript:__doPostBack('ctl00$cphMyMasterCentral$ucSearch$lbtnSearch','')", 'text': 'Go'}
+{'href': 'http://www.structuralfunds.org.cy/', 'text': ''}
+{'href': 'Default.aspx', 'text': 'Home Page'}
+{'href': 'Disclaimer.aspx', 'text': 'Disclaimer'}
+{'href': 'WebMaster.aspx', 'text': 'Webmaster'}
+{'href': 'https://www.companies.gov.cy/en/', 'text': 'Companies Section'}

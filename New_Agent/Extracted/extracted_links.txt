@@ -1,0 +1,19 @@
+Text: , Link: #ctl00_Menu1_SkipLink
+Text: Services, Link: Default.aspx
+Text: Search, Link: SearchForm.aspx?sc=0
+Text: Study File, Link: https://eforms.eservices.cyprus.gov.cy/MCIT/RCOR/OrganisationFileSearch
+Text: Annual Company Fee, Link: SearchForm.aspx?sc=1
+Text: Workspace, Link: Restricted/Basket.aspx
+Text: Confirmation of Authenticity, Link: CertificateValidationNew.aspx
+Text: Results of Name Examination, Link: OrganizationNameExamination.aspx
+Text: Electronic Filing, Link: https://efiling.drcor.mcit.gov.cy/drcorprivate/login/authenticate.aspx
+Text: Login, Link: javascript:__doPostBack('ctl00$lnkLoginStatus','')
+Text: Orders Basket (0), Link: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ltBasketItems", "", false, "", "ManageOrders.aspx", false, true))
+Text: New Search, Link: javascript:__doPostBack('ctl00$cphMyMasterCentral$lnkNewSearch','')
+Text: Go, Link: javascript:__doPostBack('ctl00$cphMyMasterCentral$ucSearch$lbtnSearch','')
+Text: Select, Link: javascript:__doPostBack('ctl00$cphMyMasterCentral$GridView1','Select$0')
+Text: , Link: http://www.structuralfunds.org.cy/
+Text: Home Page, Link: Default.aspx
+Text: Disclaimer, Link: Disclaimer.aspx
+Text: Webmaster, Link: WebMaster.aspx
+Text: Companies Section, Link: https://www.companies.gov.cy/en/
