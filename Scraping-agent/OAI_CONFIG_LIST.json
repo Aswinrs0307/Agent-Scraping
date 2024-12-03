@@ -1,0 +1,10 @@
+[
+    {
+        "model": "Your model name",
+        "api_key": "Your Api key ",
+        "base_url": "Your base base_url",
+        "api_type": "Mention the Api type",
+        "api_version": "provide the version",
+        "azure_deployment":"provide the deployment model"
+    }
+]

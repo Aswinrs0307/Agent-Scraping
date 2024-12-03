@@ -1,0 +1,14 @@
+[
+    {
+        "id": "ctl00_cphMyMasterCentral_ucSearch_txtName",
+        "name": "ctl00$cphMyMasterCentral$ucSearch$txtName",
+        "class": null,
+        "placeholder": null
+    },
+    {
+        "id": "ctl00_cphMyMasterCentral_ucSearch_txtNumber",
+        "name": "ctl00$cphMyMasterCentral$ucSearch$txtNumber",
+        "class": null,
+        "placeholder": null
+    }
+]

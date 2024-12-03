@@ -1,0 +1,25 @@
+Text: , Href: #ctl00_Menu1_SkipLink, ID: None, Class: None
+Text: Services, Href: Default.aspx, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Search, Href: SearchForm.aspx?sc=0, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Study File, Href: https://eforms.eservices.cyprus.gov.cy/MCIT/RCOR/OrganisationFileSearch, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Annual Company Fee, Href: SearchForm.aspx?sc=1, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Workspace, Href: Restricted/Basket.aspx, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Confirmation of Authenticity, Href: CertificateValidationNew.aspx, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Results of Name Examination, Href: OrganizationNameExamination.aspx, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: Electronic Filing, Href: https://efiling.drcor.mcit.gov.cy/drcorprivate/login/authenticate.aspx, ID: None, Class: ['ctl00_Menu1_1', 'ctl00_Menu1_3']
+Text: , Href: None, ID: ctl00_Menu1_SkipLink, Class: None
+Text: Ελληνικά, Href: None, ID: lnkGreek, Class: ['languageLink']
+Text: English, Href: None, ID: lnkEnglish, Class: ['languageLink']
+Text: Türkçe, Href: None, ID: lnkTurkish, Class: ['languageLink']
+Text: Login, Href: javascript:__doPostBack('ctl00$lnkLoginStatus',''), ID: ctl00_lnkLoginStatus, Class: ['signinButton']
+Text: Orders Basket (0), Href: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ltBasketItems", "", false, "", "ManageOrders.aspx", false, true)), ID: ctl00_ltBasketItems, Class: None
+Text: New Search, Href: javascript:__doPostBack('ctl00$cphMyMasterCentral$lnkNewSearch',''), ID: ctl00_cphMyMasterCentral_lnkNewSearch, Class: ['newSearchLink']
+Text: Go, Href: javascript:__doPostBack('ctl00$cphMyMasterCentral$ucSearch$lbtnSearch',''), ID: ctl00_cphMyMasterCentral_ucSearch_lbtnSearch, Class: ['buttons']
+Text: Select, Href: javascript:__doPostBack('ctl00$cphMyMasterCentral$GridView1','Select$0'), ID: None, Class: None
+Text: 
+
+, Href: http://www.structuralfunds.org.cy/, ID: None, Class: None
+Text: Home Page, Href: Default.aspx, ID: ctl00_lnkHome, Class: None
+Text: Disclaimer, Href: Disclaimer.aspx, ID: ctl00_lnkDisclaimer, Class: None
+Text: Webmaster, Href: WebMaster.aspx, ID: ctl00_lnkWebmaster, Class: None
+Text: Companies Section, Href: https://www.companies.gov.cy/en/, ID: ctl00_lnkWebCompanies, Class: None
