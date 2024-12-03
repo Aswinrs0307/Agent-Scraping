@@ -1,0 +1,9 @@
+[
+    {
+        "model": "Your model",
+        "api_key": "Your api key",
+        "base_url": "Mention base url",
+        "api_type": "Provide Api type",
+        "api_version": "mention Date"
+    }
+]

@@ -1,0 +1,703 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<html id="ctl00_htmltag" lang="en-AU" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <link href="App_Themes/PublicWeb/calendar-win2k-cold-1.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/innertabs.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/main.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/mask.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/Stylesheet.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/tabs.css" rel="stylesheet" type="text/css"/>
+  <title>
+   Search Form
+  </title>
+  <script type="text/javascript">
+   var globalRV = null;
+        var browserCheck = function () {
+            var rv = -1; // Return value assumes failure.
+            if (navigator.appName == 'Microsoft Internet Explorer') {
+                var ua = navigator.userAgent;
+                var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+                if (re.exec(ua) != null) {
+                    rv = parseFloat(RegExp.$1);
+                    globalRV = rv;
+                    if (rv < 9) {
+                        var redirect = window.location.protocol + "//" + window.location.hostname + "/DrcorPublic/Error.aspx?code=b0";
+                        if (window.location.href.indexOf("Error") == -1) {
+                            window.location.href = redirect;
+                        }
+                    }
+                }
+            }
+        }();
+  </script>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript">
+  </script>
+  <script src="JavaScript/jquery-ui.min.js" type="text/javascript">
+  </script>
+  <script src="/DrcorPublic/javascript/mask.js?v132" type="text/javascript">
+  </script>
+  <script src="/DrcorPublic/javascript/main.js?v135" type="text/javascript">
+  </script>
+  <script src="/DrcorPublic/javascript/mustache.min.js" type="text/javascript">
+  </script>
+  <style type="text/css">
+   .print-logo {
+            width: 532px;
+            height: 62px;
+            background-image: url(images/top_printDRCOREN.gif);
+            margin: 0 auto;
+        }
+  </style>
+  <link href="App_Themes/PublicWeb/calendar-win2k-cold-1.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/innertabs.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/main.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/mask.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/Stylesheet.css" rel="stylesheet" type="text/css"/>
+  <link href="App_Themes/PublicWeb/tabs.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <form action="SearchForm.aspx?sc=0&amp;cultureInfo=en-AU" id="aspnetForm" method="post" name="aspnetForm">
+   <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="8IrrprF/EY4Mz+EsrJqIZX189iPAHQFL8TynI0TRBX3s24djDSy1fnXBWw7MZXmOON6tum9aIYGrbatMdnQujVt66S+VkollsTVlybpNeiNXGNB0zOOaLIksTTNClwj/5OVno+FkTgoOMlxt8P3LC5w4mI77E1dkJMk1SfTgbrvHcMZIQ7Wrb3bIHagOQzuKczFiekWQ2PRoG3zQiFVrNSGwpHO4rY8WLyDoW1g4i0oxFUolMhm5uQluf6rQXIDIBvTgONJz+oGAWy3RC1wmUaAFkWrOzXs+MCmZ5/FHqdiDa8Vme6rtyw7PMKnqe5Fqk/SUiYe2tpX5rnB+6iCK2zA47rg0W732btKu9wD69xjBFYWdXF94L5hZ1d1SsyO9loC4PiAE2uD+T3nho5PD/Pk8srebDQktoPXy7jWmM89TPiIdq122v6k3jFOQAXD2yUX1c49KH1gFcWygm540Bm68qcW2QNcUkBvN1198c7Z4kN2Yy/5jFC9UalqYb5h3AhYT5mBA6d0neNxKQWlfeerPQp54Eaf87eYIZvUqM+FI6+D9aP4Uic6Tz6X240tLQzCHu60l+lTTbqbMzXuPJhPQf8MKDIC8l9EF0P3PYhMFh3OVPzMRn74q7RaelAma+RL/VUZO08jfdbRnEOPwtcp0VCHKSdkxowkHFH+l316gfFBkO6OcgNF+c4NThkiEskCKuwDywwLKFl6t2cePMVrTdTlLtxtbYnziP+YAnvrFjBIGiKuooe5/xxGL2z6NvwnWlrzUdEKeiMeqNhymOkIW8moRXrBF7a1HcjfQXPsy1abIhBf+JjeNxQ/z20ahJfXQ2w8DDPLkysDSn0sHmQ=="/>
+   <script src="/DrcorPublic/WebResource.axd?d=btGBgULKnBPdDqUdf-V-FSvrrAvupZ8nfGQV1gqAy82VGfRMO89wA7MncCGyHMIayw_Ves2Pj3oBijfkXE-HbQ2&amp;t=635328527960000000" type="text/javascript">
+   </script>
+   <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CF524812"/>
+   <input id="__PREVIOUSPAGE" name="__PREVIOUSPAGE" type="hidden" value="4t__3SYs_Oy0zUObupOK8E3H9DxK5MHQ7Dfx8gXOZlHPjcXlVnhJIZEDGNoSTUQO9nnBu_hCycfrnx7RaJwUz_qbvrWeyV1I6Oig7WSJK9c1"/>
+   <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="KcWQlp0D83cmKV6530XYMUvzwwaLA4SfOELEwpSpeJGd6L57akwfVPV7dZWkqNTCR/jPm3q/uUBHdx3OfvdhbwvYc+IFiEOkrnWvnjjdzZ/642o4FAXMBnOtpLH7NQKXXSSVVKpZBxT+qWktBJbQL6f9DsSWhYGByFWU7Ppc28ztJH5bI52e/L4GpHXQPrjAoEZT0xSWAkmlHY7FiCWLEMq2/9wm7V31OjN6mUuRriZs9JKNeiOZBQp0mWkhntju3vwOvwUYIoRKN3ORojsQcg=="/>
+   <div id="wrapper">
+    <div id="printLogo" style="width: 800px; display: none;">
+     <div class="print-logo" id="dvPrintLogo">
+     </div>
+    </div>
+    <div id="menuhorizontal" style="background: #142A38; border-bottom: 3px solid #0099CC; box-shadow: -3px 0 3px #000; width: 100%; display: table">
+     <div style="background-image: url(../drcorpublic/logo_el.png); width: 990px; height: 100px; text-align: left; margin-left: auto; margin-right: auto; position: relative; background-repeat: no-repeat; background-position: 0px 5px">
+     </div>
+     <div style="margin-left: 5%">
+      <a href="#ctl00_Menu1_SkipLink">
+       <img alt="Skip Navigation Links" border="0" height="0" src="/DrcorPublic/WebResource.axd?d=rKN1opQVoh180LaGjXZZkBjKoSRIbhUnourOpN9H9yvlrMiQ2JMsmZt2A5INrY7RkOMPMYxf1EMG2WdrA0ir6g2&amp;t=635328527960000000" width="0"/>
+      </a>
+      <table border="0" cellpadding="0" cellspacing="0" id="ctl00_Menu1">
+       <tr>
+        <td id="ctl00_Menu1n0" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="Default.aspx">
+             <font color="White">
+              Services
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n1" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="SearchForm.aspx?sc=0">
+             <font color="White">
+              Search
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n2" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="https://eforms.eservices.cyprus.gov.cy/MCIT/RCOR/OrganisationFileSearch">
+             <font color="White">
+              Study File
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n3" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="SearchForm.aspx?sc=1">
+             <font color="White">
+              Annual Company Fee
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n4" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="Restricted/Basket.aspx">
+             <font color="White">
+              Workspace
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n5" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="CertificateValidationNew.aspx">
+             <font color="White">
+              Confirmation of Authenticity
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n6" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="OrganizationNameExamination.aspx">
+             <font color="White">
+              Results of Name Examination
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+        <td width="10">
+        </td>
+        <td id="ctl00_Menu1n7" onkeyup="Menu_Key(event)" onmouseout="Menu_Unhover(this)" onmouseover="Menu_HoverStatic(this)">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td nowrap="nowrap">
+            <a href="https://efiling.drcor.mcit.gov.cy/drcorprivate/login/authenticate.aspx">
+             <font color="White">
+              Electronic Filing
+             </font>
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td width="10">
+        </td>
+       </tr>
+      </table>
+      <a id="ctl00_Menu1_SkipLink">
+      </a>
+     </div>
+    </div>
+    <div id="center">
+     <div id="loginInfo" style="float: right; clear: right; width: 100%;">
+      <div id="lanSelection" style="float: left">
+       <a class="languageLink" id="lnkGreek">
+        Ελληνικά
+       </a>
+       <span id="greekSep">
+        |
+       </span>
+       <a class="languageLink" id="lnkEnglish">
+        English
+       </a>
+       <span id="englishSep">
+        |
+       </span>
+       <a class="languageLink" id="lnkTurkish">
+        Türkçe
+       </a>
+      </div>
+      <div style="float: right;">
+       <table style="border-collapse: collapse; border-spacing: 2px; width: 385px">
+        <tr>
+         <td style="text-align: right;">
+          <a class="signinButton" href="javascript:__doPostBack('ctl00$lnkLoginStatus','')" id="ctl00_lnkLoginStatus">
+           Login
+          </a>
+          <span id="ctl00_lblCurrentUserName">
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align: right;">
+          <a href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ltBasketItems", "", false, "", "ManageOrders.aspx", false, true))' id="ctl00_ltBasketItems">
+           Orders Basket (0)
+          </a>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </div>
+     <div style="float: right; padding-top: 2px;">
+     </div>
+     <script type="text/javascript">
+     </script>
+     <div style="margin-bottom: 15px;">
+      <h3>
+       Organisation and Name Search
+      </h3>
+      This service offers the possibility to search in the list of registered organisations and names / Study File. In order to perform a search for a particular organisation, key in the name (or words from the name) or the number of the organisation. Select a search criteria and proceed to the search.
+     </div>
+     <div>
+      <style type="text/css">
+       .tbsearchctr {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+    }
+
+        .tbsearchctr tr td {
+            padding: 5px;
+            text-align: left;
+        }
+
+    .auto-style1 {
+        width: 201px;
+    }
+
+    .auto-style2 {
+        width: 163px;
+    }
+      </style>
+      <div style="width: 100%; padding: 5px;">
+       <hr/>
+       <h3>
+        Search Criteria
+       </h3>
+       <table class="tbsearchctr">
+        <tr>
+         <td class="auto-style2">
+          <span class="criteriaLabel">
+           <input id="ctl00_cphMyMasterCentral_ucSearch_optStartMatch" name="ctl00$cphMyMasterCentral$ucSearch$Group1" type="radio" value="optStartMatch"/>
+           <label for="ctl00_cphMyMasterCentral_ucSearch_optStartMatch">
+            With all these words
+           </label>
+          </span>
+         </td>
+         <td class="auto-style1">
+          <span class="criteriaLabel">
+           <input id="ctl00_cphMyMasterCentral_ucSearch_optEndMatch" name="ctl00$cphMyMasterCentral$ucSearch$Group1" type="radio" value="optEndMatch"/>
+           <label for="ctl00_cphMyMasterCentral_ucSearch_optEndMatch">
+            With any of these words
+           </label>
+          </span>
+         </td>
+         <td>
+         </td>
+         <td>
+          <span class="criteriaLabel">
+           <input id="ctl00_cphMyMasterCentral_ucSearch_optSoundLike" name="ctl00$cphMyMasterCentral$ucSearch$optSoundLike" type="checkbox"/>
+           <label for="ctl00_cphMyMasterCentral_ucSearch_optSoundLike">
+            Sound Like
+           </label>
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="4">
+          <span id="spanbothempty" style="color: red;">
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <td class="auto-style2">
+          <label for="ctl00_cphMyMasterCentral_ucSearch_txtName" id="ctl00_cphMyMasterCentral_ucSearch_lbl1">
+           Name
+          </label>
+         </td>
+         <td class="auto-style1">
+          <input id="ctl00_cphMyMasterCentral_ucSearch_txtName" name="ctl00$cphMyMasterCentral$ucSearch$txtName" type="text"/>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr>
+         <td class="auto-style2">
+          <label for="ctl00_cphMyMasterCentral_ucSearch_txtNumber" id="ctl00_cphMyMasterCentral_ucSearch_lbl2">
+           Reg. Number
+          </label>
+         </td>
+         <td class="auto-style1">
+          <input id="ctl00_cphMyMasterCentral_ucSearch_txtNumber" name="ctl00$cphMyMasterCentral$ucSearch$txtNumber" type="text"/>
+         </td>
+         <td>
+          <span id="invalidRegNo" style="color: red;">
+          </span>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr>
+         <td class="auto-style2">
+         </td>
+         <td class="auto-style1" style="text-align: right;">
+          <a class="buttons" href="javascript:__doPostBack('ctl00$cphMyMasterCentral$ucSearch$lbtnSearch','')" id="ctl00_cphMyMasterCentral_ucSearch_lbtnSearch">
+           Go
+          </a>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr>
+         <td class="auto-style2">
+         </td>
+         <td colspan="2" style="text-align: left;">
+         </td>
+         <td>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <script type="text/javascript">
+       $(function () {
+        var beforeSubmit = function () {
+            var nameBox = $("#ctl00_cphMyMasterCentral_ucSearch_txtName");
+            var regNumBox = $("#ctl00_cphMyMasterCentral_ucSearch_txtNumber");
+            var errorSpan = $("#spanbothempty");
+            if (nameBox.val().length == 0 && regNumBox.val().length == 0) {
+                msg = getCurrentCulture() == "el-GR" ? "Παρακαλώ πληκτρολογήστε όνομα ή αριθμό οργανισμού" : "Search requires an Organisation name or number";
+                errorSpan.html(msg);
+                return false;
+            } else {
+                if (isNaN(regNumBox.val())) {
+                    msg = getCurrentCulture() == "el-GR" ? "Παρακαλώ καταχωρήστε αριθμό" : "Παρακαλώ καταχωρήστε αριθμό";
+                    $("#invalidRegNo").html(msg);
+                    return false;
+                }
+            }
+            $("#invalidRegNo").html("");
+            errorSpan.html("");
+            return true;
+        }
+        var btnSearch = $("#ctl00_cphMyMasterCentral_ucSearch_lbtnSearch");
+        btnSearch.on("click", beforeSubmit);
+    })
+      </script>
+     </div>
+    </div>
+    <div id="footer" style="/*margin-top: 5px; float: right; */margin: auto">
+     <div style="clear: both; height: 150px">
+      <div style="float: left;">
+       <a href="http://www.structuralfunds.org.cy/" target="_blank">
+        <img alt="Structural Funds" border="0" height="145" id="ctl00_Image1" src="Images/footer_logol_eng.jpg" width="160"/>
+       </a>
+       <img alt="wcag logo" id="w3cLogo" src="Images/wcag.png"/>
+      </div>
+      <div style="float: left; margin: 0 auto; width: 512px">
+       <div style="text-align: center; padding-top: 35px;">
+        <span class="footer2" id="ctl00_footermasterCoFunded">
+         The project is co-financed by the European Regional Development Fund
+        </span>
+        <br/>
+        <span class="footer2" id="ctl00_footermaster2">
+         The Website is best viewed with screen resolution: 1024 with 768 pixels
+        </span>
+        <br/>
+        <span class="footer1" id="ctl00_footermaster">
+         ©2005 - 2011 Republic of Cyprus, Ministry of Commerce, Industry and Tourism
+        </span>
+        <br/>
+        <span class="footer1" id="ctl00_footermaster1">
+         Department of Companies and Intellectual Property
+        </span>
+       </div>
+      </div>
+      <div style="padding-top: 0px; float: right;">
+       <div style="">
+        <img alt="Europian union" border="0" height="67" id="ctl00_footerLogoRight" src="Images/footer_logor_eng.jpg" width="85"/>
+       </div>
+      </div>
+     </div>
+     <div style="width: 100%; text-align: center;">
+      <div style="margin: 0 auto; margin: 5px; width: 100%;">
+       <a href="Default.aspx" id="ctl00_lnkHome">
+        <span class="footerlinks" id="ctl00_lblHomePage">
+         Home Page
+        </span>
+       </a>
+       |
+       <a href="Disclaimer.aspx" id="ctl00_lnkDisclaimer">
+        <span class="footerlinks" id="ctl00_lblDisclaimer">
+         Disclaimer
+        </span>
+       </a>
+       |
+       <a href="WebMaster.aspx" id="ctl00_lnkWebmaster">
+        <span class="footerlinks" id="ctl00_lblWebMaster">
+         Webmaster
+        </span>
+       </a>
+       |
+       <a href="https://www.companies.gov.cy/en/" id="ctl00_lnkWebCompanies">
+        <span class="footerlinks" id="ctl00_lblCompanies">
+         Companies Section
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">
+    //<![CDATA[
+var ctl00_Menu1_Data = new Object();
+ctl00_Menu1_Data.disappearAfter = 500;
+ctl00_Menu1_Data.horizontalOffset = 0;
+ctl00_Menu1_Data.verticalOffset = 0;
+//]]>
+   </script>
+  </form>
+  <script type="text/javascript">
+   var hookLanguages = function () {
+            $("a", "#lanSelection").on("click", function () {
+                drcor.utils.setLang(this);
+            });
+        }
+
+        var langSelection = function () {
+            var culture = getCurrentCulture();
+            $('a', '#lanSelection').css('display', 'none');
+            $('span', '#lanSelection').css('display', 'none');
+            switch (culture) {
+                case "en-AU":
+                    $("a[id='lnkGreek']", '#lanSelection').css('display', '');
+                    $("span[id='greekSep']", '#lanSelection').css('display', '');
+                    $("a[id='lnkTurkish']", '#lanSelection').css('display', '');
+                    $(".logo-center").css("background-image", "url(App_Themes/PublicWeb/images/left_logo.png)");
+                    break;
+                case "el-GR":
+                    $("a[id='lnkEnglish']", '#lanSelection').css('display', '');
+                    $("span[id='englishSep']", '#lanSelection').css('display', '');
+                    $("a[id='lnkTurkish']", '#lanSelection').css('display', '');
+                    $(".logo-center").css("background-image", "url(App_Themes/PublicWeb/images/left_logo_gr.png)");
+                    break;
+                case "tr-TR":
+                    $("a[id='lnkGreek']", '#lanSelection').css('display', '');
+                    $("span[id='greekSep']", '#lanSelection').css('display', '');
+                    $("a[id='lnkEnglish']", '#lanSelection').css('display', '');
+                    $(".logo-center").css("background-image", "url(App_Themes/PublicWeb/images/left_logo_tr.png)");
+                    break;
+                default:
+                    $("a[id='lnkGreek']", '#lanSelection').css('display', '');
+                    $("span[id='greekSep']", '#lanSelection').css('display', '');
+                    $("a[id='lnkTurkish']", '#lanSelection').css('display', '');
+                    $(".logo-center").css("background-image", "url(App_Themes/PublicWeb/images/left_logo_gr.png)");
+                    break;
+                    // english
+            }
+        }
+
+
+        var validateServiceCode = function () {
+            $("#ctl00_lblMasterAddToBasket").on("click", function (event) {
+                var sc = parseQueryString("sc");
+                if (sc == "1") { // validate years fee
+                    var ddSpecContr = $("#ctl00_cphMyMasterCentral_ddlSpecialContribution");
+                    if (ddSpecContr.val() == "-1") {
+                        var clrInterval = window.setInterval(function () {
+                            ddSpecContr.css("background-color", ddSpecContr.css("background-color") == "rgb(255, 0, 0)" ? "rgb(255, 255, 255)" : "rgb(255, 0, 0)");
+                        }, 200);
+                        window.setTimeout(function () {
+                            window.clearInterval(clrInterval);
+                            ddSpecContr.css("background-color", "rgb(255, 0,0)");
+                        }, 1500);
+                        return false;
+                    }
+                }
+                return true;
+            })
+        }
+
+        var print = function () {
+
+            $(".print", "#loginInfo").on("click", function () {
+                var labelText;
+
+                if ($(this).html() == "Εκτύπωση" || $(this).html() == "Print") {
+
+                    labelText = getCurrentCulture() == "el-GR" ? "Έξοδος Εκτύπωσης" : "Exit Print"
+                    $(this).html(labelText);
+
+                    $("#left").css("display", "none")
+                    $("#head").css("display", "none")
+                    $("#ctl00_ltBasketItems").css("display", "none");
+                    $("#ctl00_lgnStatus").css("display", "none");
+                    $("#ctl00_LoginName1").css("display", "none");
+                    $("#footer").css("display", "none")
+                    $("#printLogo").css("display", "");
+                    $("tr[data-nonprint]").css('display', 'none');
+
+                    $("#ctl00_lblMasterAddToBasket").css('display', 'none');
+                    $("#ctl00_cphMyMasterCentral_lbtnNewSearch").css('display', 'none');
+                    $("#ctl00_cphMyMasterCentral_lbtnReturnToSearchResults").css('display', 'none');
+                    $("#ctl00_ctl00_ltBasketItems").css('display', 'none');
+
+
+                    switch (getCurrentCulture()) {
+                        case "el-GR":
+                            $(".print-logo").css("background-image", "url(images/top_printDRCORGR.gif)");
+                            break;
+                        case "tr-TR":
+                            $(".print-logo").css("background-image", "url(images/top_printDRCORTR.gif)");
+                            break;
+                        default:
+                            $(".print-logo").css("background-image", "url(images/top_printDRCOREN.gif)");
+                            break;
+                    }
+                    $('#ctl00_cphMyMasterCentral_ddlSpecialContribution').attr("disabled", true);
+
+                } else {
+                    labelText = getCurrentCulture() == "el-GR" ? "Εκτύπωση" : "Print";
+                    $(this).html(labelText);
+                    $("#left").css("display", "")
+                    $("#head").css("display", "")
+
+                    $("#footer").css("display", "")
+                    $("#printLogo").css("display", "none");
+
+                    $("#ctl00_ltBasketItems").css("display", "");
+                    $("#ctl00_lgnStatus").css("display", "");
+                    $("#ctl00_LoginName1").css("display", "");
+                    $("tr[data-nonprint]").css("display", "");
+
+                    $("#ctl00_lblMasterAddToBasket").css('display', '');
+                    $("#ctl00_cphMyMasterCentral_lbtnNewSearch").css('display', '');
+                    $("#ctl00_cphMyMasterCentral_lbtnReturnToSearchResults").css('display', '');
+                    $("#ctl00_ctl00_ltBasketItems").css('display', '');
+
+                    $('#ctl00_cphMyMasterCentral_ddlSpecialContribution').attr("disabled", false);
+
+
+                }
+            });
+        };
+        var leftDivSize = function () {
+
+            $("#left").width(178);
+        }
+        var basketLinks = function () {
+            //in file study customer is notb aaloed to add basklets;
+            var dispVal = parseQueryString("sc") == "0" ? 'none' : '';
+            $("#ctl00_ltBasketItems").css('display', dispVal);
+            $("#ctl00_lblMasterAddToBasket").css('display', dispVal);
+        }
+        var ariadniLink = function () {
+            labelText = getCurrentCulture() == "el-GR" ? "EL" : "EN";
+            var href = $('#ctl00_TreeView1t13').attr('href');
+            if (labelText == "EL") {
+                $('#ctl00_TreeView1t13').attr('href', href + '?_lang=el');
+            } else {
+                $('#ctl00_TreeView1t13').attr('href', href + '?_lang=en');
+            }
+        }
+        var overrideSignInLink = function () {
+            var lnk = $('#ctl00_lgnStatus')
+            if (lnk.text() == "Είσοδος" || lnk.text() == "Login") {
+                //https://eservices.test.cyprus.gov.cy/EN/Secure/Pages/Home.aspx
+                lnk.attr("href", '/drcorpublic/dummy.aspx');
+            }
+            //return false;
+        }
+        var ariadniPreviewFile = function () {
+            // as print function () ;
+            var aRef = parseQueryString('referer');
+            console.log(aRef);
+            if (aRef != "") {
+                $("#left").css("display", "none")
+                $("#head").css("display", "none")
+                $("#ctl00_ltBasketItems").css("display", "none");
+                $("#ctl00_lgnStatus").css("display", "none");
+                $("#ctl00_LoginName1").css("display", "none");
+                $("#footer").css("display", "none")
+                $("#printLogo").css("display", "");
+                $("tr[data-nonprint]").css('display', 'none');
+
+                $("#ctl00_lblMasterAddToBasket").css('display', 'none');
+                $("#ctl00_cphMyMasterCentral_lbtnNewSearch").css('display', 'none');
+                $("#ctl00_cphMyMasterCentral_lbtnReturnToSearchResults").css('display', 'none');
+                $("#ctl00_ctl00_ltBasketItems").css('display', 'none');
+
+                $("#ctl00_lblPrint").css('display', 'none');
+                $("#ctl00_imgPrint").css('display', 'none');
+                $('li', ".primaryTabs").first().css('display', 'none')
+
+                var currentCulture = parseQueryString('culture') == '' ? getCurrentCulture() : parseQueryString('culture');
+
+                switch (currentCulture) {
+                    case "el-GR":
+                        $(".print-logo").css("background-image", "url(images/top_printDRCORGR.gif)");
+                        break;
+                    case "tr-TR":
+                        $(".print-logo").css("background-image", "url(images/top_printDRCORTR.gif)");
+                            break;
+                        default:
+                            $(".print-logo").css("background-image", "url(images/top_printDRCOREN.gif)");
+                            break;
+                    }
+                    $('#ctl00_cphMyMasterCentral_ddlSpecialContribution').attr("disabled", true);
+                }
+        }
+            $(function () {
+                //browserCheck();
+                ariadniLink();
+                basketLinks();
+                hookLanguages();
+                langSelection();
+                validateServiceCode();
+                print();
+                leftDivSize();
+                $.ajaxSetup({
+                    error: function (jqXHR, timeout, message) {
+                        var contentType = jqXHR.getResponseHeader("Content-Type");
+                        if (jqXHR.status === 404) {
+                            //console.log('Error Occured 404');
+                            window.location = document.location.protocol + "//" + document.location.host + "/drcorpublic/Signout.aspx";
+                        } else if (jqXHR.status === 500) {
+                            //console.log('Error Occured 500');
+                            window.location = document.location.protocol + "//" + document.location.host + "/drcorpublic/errors/errors.aspx";
+                        }
+                    }
+                });
+                overrideSignInLink();
+                ariadniPreviewFile();
+            });
+  </script>
+ </body>
+</html>
