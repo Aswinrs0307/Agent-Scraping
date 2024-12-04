@@ -1,0 +1,4 @@
+Address Title: Address
+Street Name: Αρχ. Μακαρίου ΙΙΙ, 45,
+Parish: Λιμανάκι, Αγία Νάπα
+Territory: Αμμόχωστος, Κύπρος
