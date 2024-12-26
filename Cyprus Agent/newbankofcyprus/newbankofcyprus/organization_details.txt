@@ -1,0 +1,9 @@
+Name: BANK OF CYPRUS PUBLIC COMPANY LIMITED
+Registration Number: ΗΕ 165
+Type: Limited Company
+SubType: Public
+Name Status: Current Name
+Registration Date: 31/12/1943
+Organization Status: Active
+Status Date: 
+Last Annual Return Date: 03/09/2020

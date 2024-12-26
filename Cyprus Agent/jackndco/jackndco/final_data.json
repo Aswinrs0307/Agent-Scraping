@@ -1,0 +1,157 @@
+{
+    "Organization details": {
+        "Name": "JACK AND CO LTD",
+        "Registration Number": "ΗΕ 417829",
+        "Type": "Limited Company",
+        "SubType": "Private",
+        "Name Status": "Current Name",
+        "Registration Date": "03/02/2021",
+        "Organization Status": "Active",
+        "Status Date": "",
+        "Last Annual Return Date": ""
+    },
+    "File Status": {
+        "Last File Update": "12/10/2021",
+        "Pending Services": "2"
+    },
+    "Additional Tables": [
+        [],
+        [
+            "Filing of Annual Return of private company with share capital",
+            "05/04/2023",
+            "3497297",
+            "7"
+        ],
+        [
+            "Filing of Annual Return of private company with share capital",
+            "08/03/2024",
+            "3747285",
+            "1"
+        ]
+    ],
+    "Directors and Secretaries": [
+        [],
+        [
+            "JACK EL KHOURY",
+            "Director"
+        ],
+        [
+            "JACK EL KHOURY",
+            "Secretary"
+        ]
+    ],
+    "HE32 Archive": [
+        [],
+        [
+            "Καταχώρηση ΗΕ32 Ιδιωτικής Εταιρείας με κεφάλαιο",
+            "3497297",
+            "7",
+            "HE32",
+            "4/08/2022 12:00:00 AM"
+        ],
+        [
+            "Καταχώρηση ΗΕ32 Ιδιωτικής Εταιρείας με κεφάλαιο",
+            "3497297",
+            "7",
+            "XACC",
+            "31/12/2021 12:00:00 AM"
+        ],
+        [
+            "Καταχώρηση ΗΕ32 Ιδιωτικής Εταιρείας με κεφάλαιο",
+            "3747285",
+            "1",
+            "HE32",
+            "4/11/2023 12:00:00 AM"
+        ],
+        [
+            "Καταχώρηση ΗΕ32 Ιδιωτικής Εταιρείας με κεφάλαιο",
+            "3747285",
+            "1",
+            "XACC",
+            "31/12/2022 12:00:00 AM"
+        ]
+    ],
+    "Registered Office": {
+        "Address Title": "Registered Office",
+        "Street Name": "Λεμεσού & Κωνσταντίνου Παλαιολόγου,",
+        "Parish": "'Αγιος Νικόλαος",
+        "Territory": "6036, Λάρνακα, Κύπρος"
+    },
+    "Preview File Type": [
+        [],
+        [
+            "Transfer of shares",
+            "EGEN",
+            "Other Documents",
+            "11/10/2021",
+            "9",
+            "YES"
+        ],
+        [
+            "Transfer of shares",
+            "HE57",
+            "HE57-Transfer of shares of private companies",
+            "11/10/2021",
+            "8",
+            "YES"
+        ],
+        [
+            "Alteration of address of registered office",
+            "EGEN",
+            "Other Documents",
+            "14/06/2021",
+            "7",
+            "YES"
+        ],
+        [
+            "Alteration of address of registered office",
+            "HE2",
+            "HE2-Communication of the address of the Registered Office or change to it",
+            "14/06/2021",
+            "6",
+            "YES"
+        ],
+        [
+            "Filing of officials",
+            "HE3",
+            "HE3-Particulars in relation to the first directors and secretary",
+            "28/01/2021",
+            "5",
+            "YES"
+        ],
+        [
+            "Filing of address of registered office",
+            "HE2",
+            "HE2-Communication of the address of the Registered Office or change to it",
+            "28/01/2021",
+            "4",
+            "YES"
+        ],
+        [
+            "Registration of private company with share capital",
+            "HE44",
+            "Certificate of Incorporation of company",
+            "03/02/2021",
+            "3",
+            "YES"
+        ],
+        [
+            "Registration of private company with share capital",
+            "XI00",
+            "Memorandum and Articles",
+            "03/02/2021",
+            "2",
+            "YES"
+        ],
+        [
+            "Registration of private company with share capital",
+            "HE1",
+            "Compliance Declaration According to the Law",
+            "03/02/2021",
+            "1",
+            "YES"
+        ]
+    ],
+    "Charges and Mortgages": [],
+    "Translations": []
+}

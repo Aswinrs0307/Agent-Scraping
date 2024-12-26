@@ -1,0 +1,18 @@
+
+Alteration of address of registered office, EGEN, Other Documents, 05/05/2022, 18, YES
+Alteration of address of registered office, HE2, HE2-Communication of the address of the Registered Office or change to it, 05/05/2022, 17, YES
+Filing of Annual Return of private company with share capital, XACC, Accounts, 18/03/2021, 16, YES
+Filing of Annual Return of private company with share capital, HE32, HE32-Annual Report, 18/03/2021, 15, YES
+Filing of Annual Return of private company with share capital, XACC, Accounts, 18/03/2021, 14, YES
+Filing of Annual Return of private company with share capital, HE32, HE32-Annual Report, 18/03/2021, 13, YES
+Filing of Annual Return of private company with share capital, XACC, Accounts, 18/01/2017, 12, YES
+Filing of Annual Return of private company with share capital, HE32, HE32-Annual Report, 18/01/2017, 11, YES
+Filing of Annual Return of private company with share capital, XACC, Accounts, 18/01/2017, 10, YES
+Filing of Annual Return of private company with share capital, HE32, HE32-Annual Report, 18/01/2017, 9, YES
+
+Alteration of officers and of their particulars, HE4, HE4-Notification of change of Officers and of their particulars, 20/11/2012, 7, YES
+Filing of officials, HE3, HE3-Particulars in relation to the first directors and secretary, 17/07/2003, 6, NO
+Filing of address of registered office, HE2, HE2-Communication of the address of the Registered Office or change to it, 17/07/2003, 5, YES
+Registration of private company with share capital, HE44, Certificate of Incorporation of company, 24/07/2003, 4, YES
+Registration of private company with share capital, XI00, Memorandum and Articles, 24/07/2003, 2, YES
+Registration of private company with share capital, HE1, Compliance Declaration According to the Law, 24/07/2003, 1, YES

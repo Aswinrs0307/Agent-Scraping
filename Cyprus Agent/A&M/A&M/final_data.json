@@ -1,0 +1,104 @@
+{
+    "Organization details": {
+        "Name": "A & M JOHN - BAP LTD",
+        "Registration Number": "ΗΕ 468887",
+        "Type": "Limited Company",
+        "SubType": "Private",
+        "Name Status": "Current Name",
+        "Registration Date": "13/12/2024",
+        "Organization Status": "Active",
+        "Status Date": "",
+        "Last Annual Return Date": ""
+    },
+    "File Status": {
+        "Last File Update": "13/12/2024",
+        "Pending Services": "0"
+    },
+    "Additional Tables": [],
+    "Directors and Secretaries": [
+        [
+            "ΑΝΑΣΤΑΣΙΑ ΜΑΝΟΥ",
+            "Director"
+        ],
+        [
+            "ΠΑΥΛΟΣ ΜΠΕΝΑΚΗΣ",
+            "Secretary"
+        ]
+    ],
+    "HE32 Archive": [],
+    "Registered Office": {
+        "Address Title": "Registered Office",
+        "Street Name": "Ιφιγενείας, 63,",
+        "Parish": "Στρόβολος",
+        "Territory": "2003, Λευκωσία, Κύπρος"
+    },
+    "Preview File Type": [
+        [
+            "Filing of officials",
+            "HE3",
+            "HE3-Particulars in relation to the first directors and secretary",
+            "10/12/2024",
+            "5",
+            "YES"
+        ],
+        [
+            "Filing of address of registered office",
+            "HE2",
+            "HE2-Communication of the address of the Registered Office or change to it",
+            "10/12/2024",
+            "4",
+            "YES"
+        ],
+        [
+            "Registration of private company with share capital",
+            "HE44",
+            "Certificate of Incorporation of company",
+            "13/12/2024",
+            "3",
+            "YES"
+        ],
+        [
+            "Registration of private company with share capital",
+            "XI00",
+            "Memorandum and Articles",
+            "13/12/2024",
+            "2",
+            "YES"
+        ],
+        [
+            "Registration of private company with share capital",
+            "HE1",
+            "Compliance Declaration According to the Law",
+            "13/12/2024",
+            "1",
+            "YES"
+        ]
+    ],
+    "Charges and Mortgages": [],
+    "Translations": [
+        [
+            "Filing of Memorandum and Articles in foreign language",
+            "XI02",
+            "Memorandum and Articles in foreign language",
+            "10/12/2024",
+            "4",
+            "YES"
+        ],
+        [
+            "Filing of Memorandum and Articles in foreign language",
+            "XI00",
+            "Memorandum and Articles",
+            "10/12/2024",
+            "3",
+            "YES"
+        ],
+        [
+            "Filing of Memorandum and Articles in foreign language",
+            "X00E",
+            "Sworn affidavit in Court",
+            "10/12/2024",
+            "2",
+            "YES"
+        ]
+    ]
+}

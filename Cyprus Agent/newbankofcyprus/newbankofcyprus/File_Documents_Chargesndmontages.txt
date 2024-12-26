@@ -1,0 +1,22 @@
+
+Registration of charge, HE50, Certificate of registration of charge, 17/05/2017, 1006, YES
+Registration of charge, HE50, Certificate of registration of charge, 17/05/2017, 1006, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 17/05/2017, 1005, YES
+Registration of charge, HE50, Certificate of registration of charge, 28/04/2017, 1003, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 28/04/2017, 1002, YES
+Registration of charge, HE50, Certificate of registration of charge, 20/11/2024, 510, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 20/11/2024, 509, YES
+Registration of charge, HE50, Certificate of registration of charge, 25/10/2024, 508, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 25/10/2024, 507, YES
+Registration of charge, HE50, Certificate of registration of charge, 18/09/2024, 506, YES
+
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 18/09/2024, 505, YES
+Registration of charge, HE50, Certificate of registration of charge, 30/08/2024, 504, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 30/08/2024, 503, YES
+Registration of charge, HE50, Certificate of registration of charge, 31/07/2024, 502, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 31/07/2024, 501, YES
+Registration of charge, HE50, Certificate of registration of charge, 03/07/2024, 500, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 03/07/2024, 499, YES
+Registration of charge, HE50, Certificate of registration of charge, 19/06/2024, 498, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 19/06/2024, 497, YES
+Registration of charge, HE50, Certificate of registration of charge, 20/05/2024, 496, YES

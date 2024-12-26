@@ -1,0 +1,22 @@
+
+Release of charge, HE28, HE28-Declaration of Discharge of Registered Charge, 29/06/2021, 26, YES
+Registration of charge, HE50, Certificate of registration of charge, 30/06/2021, 25, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 30/06/2021, 24, YES
+Release of charge, HE28, HE28-Declaration of Discharge of Registered Charge, 15/06/2021, 23, YES
+Release of charge, HE28, HE28-Declaration of Discharge of Registered Charge, 24/03/2020, 22, YES
+Registration of mortgage, HE24, HE24-Registration of charges/mortgages, 14/02/2020, 21, YES
+Release of Mortgage, HE31, HE31-Particulars in relation to the extinction of listed mortgage, 27/12/2019, 20, YES
+Registration of mortgage, HE24, HE24-Registration of charges/mortgages, 25/02/2020, 19, YES
+Registration of charge, HE50, Certificate of registration of charge, 19/02/2019, 18, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 19/02/2019, 17, YES
+
+Registration of charge, HE50, Certificate of registration of charge, 17/03/2016, 16, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 17/03/2016, 15, YES
+Registration of charge, HE50, Certificate of registration of charge, 22/01/2010, 14, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 22/01/2010, 13, YES
+Release of charge, HE28, HE28-Declaration of Discharge of Registered Charge, 10/12/2009, 11, YES
+Release of charge, XCB0, Written Consent of Beneficiary, 10/12/2009, 10, YES
+Registration of mortgage, HE24, HE24-Registration of charges/mortgages, 27/02/2008, 8, YES
+Registration of charge, HE50, Certificate of registration of charge, 13/04/2006, 6, YES
+Registration of charge, HE24, HE24-Registration of charges/mortgages, 13/04/2006, 5, YES
+Registration of charge, HE50, Certificate of registration of charge, 14/10/2003, 3, YES
