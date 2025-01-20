@@ -1,0 +1,125 @@
+{
+    "Commercial Name": [
+        {
+            "Arabic Name": "شركة ضفاف الوادي المميزة للتجارة",
+            "English Name": "The banks of the special trade valley firm solidarity"
+        }
+    ],
+    "Legal Type": [
+        {
+            "Legal Type": "Sole Proprietor Company"
+        }
+    ],
+    "Registry Information": [
+        {
+            "Commercial Registration No": "1217889",
+            "Registration Date": "22/04/2015",
+            "Registration Status": "Active",
+            "Expiry Date": "10/03/2025"
+        }
+    ],
+    "Address": [
+        {
+            "Business Location": "South Al Batinah Governorate / Al-Rustaq / Ar Rustaq",
+            "Street Name English": "",
+            "Street Name Arabic": "",
+            "Way Number": "",
+            "Postal Code": "318",
+            "Building Number": "",
+            "P.O. Box": "350",
+            "Block Number": "",
+            "Latitude": "N 23.434706",
+            "Unit Number": "",
+            "Longitude": "E 57.445341"
+        }
+    ],
+    "Contact Information": [
+        {
+            "E-mail": "yahya3030@gmail.com",
+            "Mobile Number": "96899440587"
+        }
+    ],
+    "Capital": [
+        {
+            "Cash Capital": "10,000.000",
+            "Asset Capital": "0.000",
+            "Total Capital": "10,000.000",
+            "Share Count": "10,000.000",
+            "Share Value": "1.000"
+        }
+    ],
+    "Fiscal Information": [
+        {}
+    ],
+    "Business Activities": [
+        {
+            "Activities": "452003 Electrical repairs of motor vehicle Active\n452001 Repair, polishing and painting of motors vehicles Active"
+        }
+    ],
+    "Investors": [
+        {
+            "Investors": "عزان سعيد خلفان غضبان العبري AZAN SAID KHALFAN GHADHABAN AL-ABRI Limited Liability Partner 10000 100.000\nTotal Shares 10000 100.000"
+        }
+    ],
+    "Authorized Signatories": [
+        {
+            "Signatories": "يحيى سعيد خلفان العبري YAHYA SAID KHALFAN AL ABRI Full (Sole) Authorized Manager Unlimited\nعزان سعيد خلفان غضبان العبري AZAN SAID KHALFAN GHADHABAN AL-ABRI Full (Sole) Authorized Partner Unlimited"
+        }
+    ],
+    "Auditor": [
+        {}
+    ],
+    "Licenses": [
+        [
+            {
+                "License Reference": "L1834327",
+                "ISIC Code - ISIC Name": "452003 - Electrical repairs of motor vehicle",
+                "Place of Activity": "45909647 -  AlEraqy , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2022-06-15",
+                "Expiration Date": "2023-06-15"
+            },
+            {
+                "License Reference": "L1834327",
+                "ISIC Code - ISIC Name": "452003 - Electrical repairs of motor vehicle",
+                "Place of Activity": "45909647 -  AlEraqy , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2023-12-31",
+                "Expiration Date": "2024-06-15"
+            },
+            {
+                "License Reference": "L1376208",
+                "ISIC Code - ISIC Name": "452001 - Repair, polishing and painting of motors vehicles",
+                "Place of Activity": "45429474 -  Wady Alshtn , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2020-12-01",
+                "Expiration Date": "2023-12-01"
+            },
+            {
+                "License Reference": "L1683065",
+                "ISIC Code - ISIC Name": "452001 - Repair, polishing and painting of motors vehicles",
+                "Place of Activity": "42025706 -  AlEraqy , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2021-12-27",
+                "Expiration Date": "2022-12-27"
+            },
+            {
+                "License Reference": "L1683065",
+                "ISIC Code - ISIC Name": "452001 - Repair, polishing and painting of motors vehicles",
+                "Place of Activity": "42025706 -  AlEraqy , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2024-03-11",
+                "Expiration Date": "2024-12-27"
+            },
+            {
+                "License Reference": "L1834327",
+                "ISIC Code - ISIC Name": "452003 - Electrical repairs of motor vehicle",
+                "Place of Activity": "45909647 -  AlEraqy , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2024-07-21",
+                "Expiration Date": "2027-06-15"
+            },
+            {
+                "License Reference": "L1683065",
+                "ISIC Code - ISIC Name": "452001 - Repair, polishing and painting of motors vehicles",
+                "Place of Activity": "42025706 -  AlEraqy , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2025-01-11",
+                "Expiration Date": "2025-12-27"
+            }
+        ]
+    ]
+}

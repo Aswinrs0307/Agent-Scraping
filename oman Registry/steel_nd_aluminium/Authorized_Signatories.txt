@@ -1,0 +1,22 @@
+
+--- Entry ---
+Name Arabic: يحيى يونس يوسف سعود العامري
+Name English: YAHYA YOUNIS YOUSUF SA'UD AL AMRI
+Authorization (Signature) Type: Full (Sole)
+Designation: Authorized Manager
+Authorization Limit: Unlimited
+: 
+
+--- Entry ---
+Name Arabic: 
+
+--- Entry ---
+Name Arabic: قيس يونس يوسف العامري
+Name English: QAIS YOUNIS YOUSUF AL-AAMRI
+Authorization (Signature) Type: Full (Sole)
+Designation: Authorized Manager
+Authorization Limit: Unlimited
+: 
+
+--- Entry ---
+Name Arabic: 

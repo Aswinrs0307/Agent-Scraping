@@ -1,0 +1,72 @@
+[
+    {
+        "Activity ISIC Code": "649202",
+        "Activity Name": "Financing activities in installments",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": "Active"
+    },
+    {
+        "Activity ISIC Code": ""
+    },
+    {
+        "Activity ISIC Code": "",
+        "Activity Name": "",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": ""
+    },
+    {
+        "Activity ISIC Code": ""
+    },
+    {
+        "Activity ISIC Code": "",
+        "Activity Name": "",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": ""
+    },
+    {
+        "Activity ISIC Code": ""
+    },
+    {
+        "Activity ISIC Code": "",
+        "Activity Name": "",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": ""
+    },
+    {
+        "Activity ISIC Code": ""
+    },
+    {
+        "Activity ISIC Code": "",
+        "Activity Name": "",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": ""
+    },
+    {
+        "Activity ISIC Code": ""
+    },
+    {
+        "Activity ISIC Code": "",
+        "Activity Name": "",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": ""
+    },
+    {
+        "Activity ISIC Code": ""
+    },
+    {
+        "Activity ISIC Code": "",
+        "Activity Name": "",
+        "ISIC English Description": "",
+        "Business Sector": "",
+        "Isic Status": ""
+    },
+    {
+        "Activity ISIC Code": ""
+    }
+]

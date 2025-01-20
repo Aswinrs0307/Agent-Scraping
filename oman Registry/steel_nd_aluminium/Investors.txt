@@ -1,0 +1,19 @@
+
+--- Entry ---
+Name Arabic: يونس يوسف سعود العامري
+Name English: YOUNIS YOUSUF SA'UD AL 'AMRI
+Designation: Limited Liability Partner
+Share Count: 20000
+Share Percentage: 100.000
+: 
+
+--- Entry ---
+Name Arabic: 
+
+--- Entry ---
+Name Arabic: 
+Name English: 
+Designation: Total Shares
+Share Count: 20000
+Share Percentage: 100.000
+: 

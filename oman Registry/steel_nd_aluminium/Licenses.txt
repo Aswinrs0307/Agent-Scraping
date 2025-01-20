@@ -1,0 +1,63 @@
+
+--- Entry ---
+License Reference: L560810
+ISIC Code - ISIC Name: 251105 - Metal Workshop
+Place of Activity: 45445927 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2017-01-18
+Expiration Date: 2018-01-18
+
+--- Entry ---
+License Reference: L1914049
+ISIC Code - ISIC Name: 410001 - Construction of buildings (general constructions of residential and non-residential buildings)
+Place of Activity: 45949412 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2022-09-14
+Expiration Date: 2023-09-14
+
+--- Entry ---
+License Reference: L1690987
+ISIC Code - ISIC Name: 251106 - Aluminium workshops
+Place of Activity: 45842483 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2023-01-29
+Expiration Date: 2024-01-29
+
+--- Entry ---
+License Reference: L2395208
+ISIC Code - ISIC Name: 251105 - Metal Workshop
+Place of Activity: 46147745 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2023-12-20
+Expiration Date: 2025-12-19
+
+--- Entry ---
+License Reference: L2394361
+ISIC Code - ISIC Name: 432905 - Installation of doors and windos
+Place of Activity: 46147745 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2023-12-17
+Expiration Date: 2025-12-16
+
+--- Entry ---
+License Reference: L1358055
+ISIC Code - ISIC Name: 251105 - Metal Workshop
+Place of Activity: 45702497 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2020-11-02
+Expiration Date: 2023-11-02
+
+--- Entry ---
+License Reference: L1684826
+ISIC Code - ISIC Name: 251105 - Metal Workshop
+Place of Activity: 45702497 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2021-12-28
+Expiration Date: 2022-12-28
+
+--- Entry ---
+License Reference: L1690987
+ISIC Code - ISIC Name: 251106 - Aluminium workshops
+Place of Activity: 45842483 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2022-01-03
+Expiration Date: 2023-01-03
+
+--- Entry ---
+License Reference: L1693370
+ISIC Code - ISIC Name: 432905 - Installation of doors and windos
+Place of Activity: 45842483 -  South Al Mabilah , Al Seeb , Muscat Governorate
+Issue Date: 2022-01-05
+Expiration Date: 2023-01-05

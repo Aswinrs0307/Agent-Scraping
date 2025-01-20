@@ -1,0 +1,7 @@
+{
+    "Business Location": "Business Location\nMuscat Governorate / Muttrah / Ruwi",
+    "Street Name English": "Street Name English\nWay Number\nBuilding Number\nBlock Number\nUnit Number",
+    "Street Name Arabic": "Street Name Arabic\nPostal Code\n112\nP.O. Box\n2555\nLatitude\nLongitude",
+    "Postal Code": "112",
+    "P.O. Box": "2555"
+}

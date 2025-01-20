@@ -1,0 +1,441 @@
+{
+    "Commercial Name": [
+        {
+            "Arabic Name": "بنك الاسكان العماني",
+            "English Name": "Oman Housing Bank"
+        }
+    ],
+    "Legal Type": [
+        {
+            "Legal Type": "Closed Joint Stock Company"
+        }
+    ],
+    "Registry Information": [
+        {
+            "Commercial Registration No": "1064339",
+            "Registration Date": "18/04/1978",
+            "Registration Status": "Active",
+            "Expiry Date": "21/06/2027"
+        }
+    ],
+    "Address": [
+        {
+            "Business Location": "Muscat Governorate / Muttrah / Ruwi",
+            "Street Name English": "",
+            "Street Name Arabic": "",
+            "Way Number": "",
+            "Postal Code": "112",
+            "Building Number": "",
+            "P.O. Box": "2555",
+            "Block Number": "",
+            "Latitude": "",
+            "Unit Number": "",
+            "Longitude": ""
+        }
+    ],
+    "Contact Information": [
+        {
+            "E-mail": "",
+            "Mobile Number": "0"
+        }
+    ],
+    "Capital": [
+        {
+            "Cash Capital": "100,000,000.000",
+            "Asset Capital": "0.000",
+            "Total Capital": "100,000,000.000",
+            "Share Count": "100,000,000.000",
+            "Share Value": "1.000"
+        }
+    ],
+    "Fiscal Information": [
+        {
+            "CR Establishment Date": "11/07/1977",
+            "First Financial Year End": "11/07/1977",
+            "Fiscal Year End": "31/12/1977\n\n31 December"
+        }
+    ],
+    "Business Activities": [
+        [
+            {
+                "Activity ISIC Code": "681002",
+                "Activity Name": "Renting and operating of self-owned or leased real estate (residential and non-residential)",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Discontinued",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "649202",
+                "Activity Name": "Financing activities in installments",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "641902",
+                "Activity Name": "Specialized banks",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "641901",
+                "Activity Name": "Commercial banks",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "682001",
+                "Activity Name": "Real Estate Brokerage (Sale and Rental of Real Estate)",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "681001",
+                "Activity Name": "Buying, selling and subdividing lands and real estate",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Discontinued",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "461004",
+                "Activity Name": "Trading business agencies (excluding portfolio and security exchange)",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            }
+        ]
+    ],
+    "Investors": [
+        []
+    ],
+    "Authorized Signatories": [
+        [
+            {
+                "Name Arabic": "مازن حمد سعيد الحسني",
+                "Name English": "MAZIN HAMED SAID AL HASANI",
+                "Authorization (Signature) Type": "Administrative (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "0",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "رائد محمدباقر الحاج موسى اللواتي",
+                "Name English": "RAID MOHAMED BACKER AL HAJ MOOSA AL LAWATI",
+                "Authorization (Signature) Type": "Administrative (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "0",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "حميد فاضل سليمان القريني",
+                "Name English": "HUMAID FADHIL SULAIMAN AL QURAINI",
+                "Authorization (Signature) Type": "Full (Sole)",
+                "Designation": "Deputy chairman",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "ناصر علي ناصر العامري",
+                "Name English": "NASSER ALI NASSER AL AAMRI",
+                "Authorization (Signature) Type": "Full (Not a Signatory)",
+                "Designation": "Board Member",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "يوسف مسلم جمعه العريمي",
+                "Name English": "YOUSUF MUSALLAM JUMA AL ARAIMI",
+                "Authorization (Signature) Type": "Administrative (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "عارف مقبول علي الزعابي",
+                "Name English": "ARIF MAQBOOL ALI AL ZAABI",
+                "Authorization (Signature) Type": "Financial (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "150000",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "مرتضى منصور محمدجواد",
+                "Name English": "MURTADHA MANSOOR MOHAMED JAWAD",
+                "Authorization (Signature) Type": "Administrative (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "0",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "سعاد عبدالغفور سيف الدين البلوشية",
+                "Name English": "SUAD ABDUL GHAFOOR SAIF UDEEN AL BALUSHI",
+                "Authorization (Signature) Type": "Financial (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "100000",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "موسى مسعود صالح الجديدي",
+                "Name English": "MOOSA MASOUD SALEH AL JADIDI",
+                "Authorization (Signature) Type": "Full (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "ياسر سمير اسماعيل إبراهيم العزاوي",
+                "Name English": "YASIR SAMEER ISMAIL IBRAHIM AL-AZZAWI",
+                "Authorization (Signature) Type": "Administrative (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "0",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "أمل ماجد موسى الهلالية",
+                "Name English": "AMAL MAJID MOOSA AL-HILALI",
+                "Authorization (Signature) Type": "Full (Joint)",
+                "Designation": "Board Member",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "سلام سعيد سالم الشقصي",
+                "Name English": "SALAAM SAID SALIM AL SHAKSY",
+                "Authorization (Signature) Type": "Full (Sole)",
+                "Designation": "Chairman",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "يوسف محمد هلال الهوتي",
+                "Name English": "YOUSUF MOHAMMED HILAL AL HOOTI",
+                "Authorization (Signature) Type": "Full (Not a Signatory)",
+                "Designation": "Board Member",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "ثريا أحمد سويدان البلوشية",
+                "Name English": "THURAIYA AHMED SUWAIDAN AL BALUSHI",
+                "Authorization (Signature) Type": "Full (Joint)",
+                "Designation": "Board Member",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "حمد ناصر علي العبدلي",
+                "Name English": "HAMED NASSER ALI AL ABDALI",
+                "Authorization (Signature) Type": "Administrative (Joint)",
+                "Designation": "Authorized Manager",
+                "Authorization Limit": "0",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "سليمان زهران سليمان الهنائي",
+                "Name English": "SULAIMAN ZAHRAN SULAIMAN AL HINAI",
+                "Authorization (Signature) Type": "Full (Not a Signatory)",
+                "Designation": "Board Member",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            }
+        ]
+    ],
+    "Auditor": [
+        [
+            {
+                "Name Arabic": "انس جوزيف قوجه",
+                "Name English": "ANAS JOSIPH KOJAH",
+                "ID Number": "70412122",
+                "": ""
+            }
+        ]
+    ],
+    "Licenses": [
+        [
+            {
+                "License Reference": "L1858926",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651056 -  Ruwi , Muttrah , Muscat Governorate",
+                "Issue Date": "2022-07-18",
+                "Expiration Date": "2023-07-18"
+            },
+            {
+                "License Reference": "L1918935",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651185 -  Khasab , Khasab , Musandam Governorate",
+                "Issue Date": "2022-09-22",
+                "Expiration Date": "2023-09-22"
+            },
+            {
+                "License Reference": "L2008837",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "45992340 -  Sara Al Jadida , Al Buraimi , Al Buraimi Governorate",
+                "Issue Date": "2022-12-25",
+                "Expiration Date": "2023-12-25"
+            },
+            {
+                "License Reference": "L2431468",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "46160889 -  Alhmbar , Sohar , North Al Batinah Governorate",
+                "Issue Date": "2024-02-11",
+                "Expiration Date": "2025-02-10"
+            },
+            {
+                "License Reference": "L2487694",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "46181234 -  Muttrah , Muttrah , Muscat Governorate",
+                "Issue Date": "2024-02-04",
+                "Expiration Date": "2025-02-03"
+            },
+            {
+                "License Reference": "L2431363",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "46160849 -  Slalh Aljdydh , Salalah , Dhofar Governorate",
+                "Issue Date": "2024-02-11",
+                "Expiration Date": "2025-02-10"
+            },
+            {
+                "License Reference": "L2431553",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "46160921 -  Brj Alrdh , Al-Rustaq , South Al Batinah Governorate",
+                "Issue Date": "2024-02-11",
+                "Expiration Date": "2025-02-10"
+            },
+            {
+                "License Reference": "L1918935",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651185 -  Khasab , Khasab , Musandam Governorate",
+                "Issue Date": "2024-02-11",
+                "Expiration Date": "2024-09-22"
+            },
+            {
+                "License Reference": "L2008837",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "45992340 -  Sara Al Jadida , Al Buraimi , Al Buraimi Governorate",
+                "Issue Date": "2024-02-11",
+                "Expiration Date": "2024-12-25"
+            },
+            {
+                "License Reference": "L1858926",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651056 -  Ruwi , Muttrah , Muscat Governorate",
+                "Issue Date": "2024-01-16",
+                "Expiration Date": "2024-07-18"
+            },
+            {
+                "License Reference": "L2431522",
+                "ISIC Code - ISIC Name": "641901 - Commercial banks",
+                "Place of Activity": "46160911 -  Alblad , Sur , South Al Sharqiyah Governorate",
+                "Issue Date": "2024-01-16",
+                "Expiration Date": "2025-01-15"
+            },
+            {
+                "License Reference": "L1480151",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651174 -  Nizwa , Nizwa , Al Dakhiliyah Governorate",
+                "Issue Date": "2021-05-25",
+                "Expiration Date": "2024-05-25"
+            },
+            {
+                "License Reference": "L1918935",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651185 -  Khasab , Khasab , Musandam Governorate",
+                "Issue Date": "2024-11-05",
+                "Expiration Date": "2025-09-22"
+            },
+            {
+                "License Reference": "L1858926",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651056 -  Ruwi , Muttrah , Muscat Governorate",
+                "Issue Date": "2024-11-05",
+                "Expiration Date": "2025-07-18"
+            },
+            {
+                "License Reference": "L1480151",
+                "ISIC Code - ISIC Name": "641902 - Specialized banks",
+                "Place of Activity": "2651174 -  Nizwa , Nizwa , Al Dakhiliyah Governorate",
+                "Issue Date": "2024-11-05",
+                "Expiration Date": "2025-05-25"
+            }
+        ]
+    ]
+}

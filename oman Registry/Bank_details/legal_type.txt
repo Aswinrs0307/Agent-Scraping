@@ -1,0 +1,3 @@
+{
+    "Legal Type": "Closed Joint Stock Company"
+}

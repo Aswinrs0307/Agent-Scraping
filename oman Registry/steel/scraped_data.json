@@ -1,0 +1,211 @@
+{
+    "Commercial Name": [
+        {
+            "Arabic Name": "أوتاد للهياكل الحديدية",
+            "English Name": "AWTAD FOR STEEL STRUCTURES"
+        }
+    ],
+    "Legal Type": [
+        {
+            "Legal Type": "Sole Proprietor Company"
+        }
+    ],
+    "Registry Information": [
+        {
+            "Commercial Registration No": "1329905",
+            "Registration Date": "30/10/2018",
+            "Registration Status": "Active",
+            "Expiry Date": "29/10/2028"
+        }
+    ],
+    "Address": [
+        {
+            "Business Location": "Muscat Governorate / Bousher / Ghala",
+            "Street Name English": "",
+            "Street Name Arabic": "",
+            "Way Number": "0",
+            "Postal Code": "211",
+            "Building Number": "0",
+            "P.O. Box": "0",
+            "Block Number": "0",
+            "Latitude": "N 23.581483",
+            "Unit Number": "0",
+            "Longitude": "E 58.448365"
+        }
+    ],
+    "Contact Information": [
+        {
+            "E-mail": "mustahel9@gmail.com",
+            "Mobile Number": "95577797"
+        }
+    ],
+    "Capital": [
+        {
+            "Cash Capital": "20,000.000",
+            "Asset Capital": "0.000",
+            "Total Capital": "20,000.000",
+            "Share Count": "20,000.000",
+            "Share Value": "1.000"
+        }
+    ],
+    "Fiscal Information": [
+        {
+            "CR Establishment Date": "29/10/2018",
+            "First Financial Year End": "29/10/2018",
+            "Fiscal Year End": "31/12/2018\n\n31 December"
+        }
+    ],
+    "Business Activities": [
+        [
+            {
+                "Activity ISIC Code": "701001",
+                "Activity Name": "Management offices",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "410001",
+                "Activity Name": "Construction of buildings (general constructions of residential and non-residential buildings)",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "439001",
+                "Activity Name": "Construction of foundations and structures, concrete work, brick laying, scaffolding, roof covering etc.",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "251105",
+                "Activity Name": "Metal Workshop",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            },
+            {
+                "Activity ISIC Code": "773009",
+                "Activity Name": "Renting of commercial and professional machinery",
+                "ISIC English Description": "",
+                "Business Sector": "",
+                "Isic Status": "Active",
+                "": ""
+            },
+            {
+                "Activity ISIC Code": ""
+            }
+        ]
+    ],
+    "Investors": [
+        [
+            {
+                "Name Arabic": "مستهيل عبدالله مستهيل شماس",
+                "Name English": "MUSTAHIL ABDULLAH MUSTAHIL SHIMAS",
+                "Designation": "Limited Liability Partner",
+                "Share Count": "20000",
+                "Share Percentage": "100.000",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            },
+            {
+                "Name Arabic": "",
+                "Name English": "",
+                "Designation": "Total Shares",
+                "Share Count": "20000",
+                "Share Percentage": "100.000",
+                "": ""
+            }
+        ]
+    ],
+    "Authorized Signatories": [
+        [
+            {
+                "Name Arabic": "مستهيل عبدالله مستهيل شماس",
+                "Name English": "MUSTAHIL ABDULLAH MUSTAHIL SHIMAS",
+                "Authorization (Signature) Type": "Full (Sole)",
+                "Designation": "Authorized Partner",
+                "Authorization Limit": "Unlimited",
+                "": ""
+            },
+            {
+                "Name Arabic": ""
+            }
+        ]
+    ],
+    "Auditor": [
+        []
+    ],
+    "Licenses": [
+        [
+            {
+                "License Reference": "L1116347",
+                "ISIC Code - ISIC Name": "439001 - Construction of foundations and structures, concrete work, brick laying, scaffolding, roof covering etc.",
+                "Place of Activity": "45568272 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2018-12-10",
+                "Expiration Date": "2019-12-10"
+            },
+            {
+                "License Reference": "L1786826",
+                "ISIC Code - ISIC Name": "410001 - Construction of buildings (general constructions of residential and non-residential buildings)",
+                "Place of Activity": "45717044 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2022-04-11",
+                "Expiration Date": "2023-04-11"
+            },
+            {
+                "License Reference": "L1951251",
+                "ISIC Code - ISIC Name": "773009 - Renting of commercial and professional machinery",
+                "Place of Activity": "45966592 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2022-10-23",
+                "Expiration Date": "2023-10-23"
+            },
+            {
+                "License Reference": "L1944042",
+                "ISIC Code - ISIC Name": "251105 - Metal Workshop",
+                "Place of Activity": "45963246 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2022-10-16",
+                "Expiration Date": "2023-10-16"
+            },
+            {
+                "License Reference": "L1944042",
+                "ISIC Code - ISIC Name": "251105 - Metal Workshop",
+                "Place of Activity": "45963246 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2023-11-12",
+                "Expiration Date": "2024-10-16"
+            },
+            {
+                "License Reference": "L1786826",
+                "ISIC Code - ISIC Name": "410001 - Construction of buildings (general constructions of residential and non-residential buildings)",
+                "Place of Activity": "45717044 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2023-11-12",
+                "Expiration Date": "2024-04-11"
+            },
+            {
+                "License Reference": "L1951251",
+                "ISIC Code - ISIC Name": "773009 - Renting of commercial and professional machinery",
+                "Place of Activity": "45966592 -  As Sinayat Al Jadidah , Salalah , Dhofar Governorate",
+                "Issue Date": "2023-11-12",
+                "Expiration Date": "2024-10-23"
+            }
+        ]
+    ]
+}

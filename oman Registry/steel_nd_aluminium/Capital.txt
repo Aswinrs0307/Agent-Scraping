@@ -1,0 +1,5 @@
+Cash Capital: 20,000.000
+Asset Capital: 0.000
+Total Capital: 20,000.000
+Share Count: 20,000.000
+Share Value: 1.000

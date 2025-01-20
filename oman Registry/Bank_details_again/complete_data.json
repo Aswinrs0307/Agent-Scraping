@@ -1,0 +1,34 @@
+{
+    "Commercial Name": {
+        "Arabic Name": "بنك الاسكان العماني",
+        "English Name": "Oman Housing Bank"
+    },
+    "Legal Type": {
+        "Legal Type": "Closed Joint Stock Company"
+    },
+    "Registry Information": {
+        "Commercial Registration No:": "1064339",
+        "Registration Date": "18/04/1978",
+        "Registration Status": "Active",
+        "Expiry Date": "21/06/2027"
+    },
+    "Address": {
+        "Business Location": "Business Location\nMuscat Governorate / Muttrah / Ruwi",
+        "Street Name English": "Street Name English\nWay Number\nBuilding Number\nBlock Number\nUnit Number",
+        "Street Name Arabic": "Street Name Arabic\nPostal Code\n112\nP.O. Box\n2555\nLatitude\nLongitude",
+        "Postal Code": "112",
+        "P.O. Box": "2555"
+    },
+    "Capital": {
+        "Cash Capital": "100,000,000.000",
+        "Asset Capital": "0.000",
+        "Total Capital": "100,000,000.000",
+        "Share Count": "100,000,000.000",
+        "Share Value": "1.000"
+    },
+    "Fiscal Information": {
+        "CR Establishment Date": "11/07/1977",
+        "First Financial Year End": "31/12/1977",
+        "Fiscal Year End": "31 December"
+    }
+}

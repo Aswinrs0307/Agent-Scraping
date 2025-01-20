@@ -1,0 +1,55 @@
+
+--- Entry ---
+Activity ISIC Code: 259203
+Activity Name: Turning of metals
+ISIC English Description: 
+Business Sector: 
+Isic Status: Active
+: 
+
+--- Entry ---
+Activity ISIC Code: 
+
+--- Entry ---
+Activity ISIC Code: 432905
+Activity Name: Installation of doors and windos
+ISIC English Description: 
+Business Sector: 
+Isic Status: Active
+: 
+
+--- Entry ---
+Activity ISIC Code: 
+
+--- Entry ---
+Activity ISIC Code: 251106
+Activity Name: Aluminium workshops
+ISIC English Description: 
+Business Sector: 
+Isic Status: Active
+: 
+
+--- Entry ---
+Activity ISIC Code: 
+
+--- Entry ---
+Activity ISIC Code: 410001
+Activity Name: Construction of buildings (general constructions of residential and non-residential buildings)
+ISIC English Description: 
+Business Sector: 
+Isic Status: Active
+: 
+
+--- Entry ---
+Activity ISIC Code: 
+
+--- Entry ---
+Activity ISIC Code: 251105
+Activity Name: Metal Workshop
+ISIC English Description: 
+Business Sector: 
+Isic Status: Active
+: 
+
+--- Entry ---
+Activity ISIC Code: 

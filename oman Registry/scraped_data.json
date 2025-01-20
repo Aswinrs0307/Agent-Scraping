@@ -1,0 +1,61 @@
+{
+    "Address": [
+        {
+            "Business Location": "Muscat Governorate / Muttrah / Ruwi",
+            "Street Name English": "",
+            "Street Name Arabic": "",
+            "Way Number": "",
+            "Postal Code": "112",
+            "Building Number": "",
+            "P.O. Box": "2555",
+            "Block Number": "",
+            "Latitude": "",
+            "Unit Number": "",
+            "Longitude": ""
+        }
+    ],
+    "Business Activities": [],
+    "Capital": [
+        {
+            "Cash Capital": "100,000,000.000",
+            "Asset Capital": "0.000",
+            "Total Capital": "100,000,000.000",
+            "Share Count": "100,000,000.000",
+            "Share Value": "1.000"
+        }
+    ],
+    "Commercial Name": [
+        {
+            "Arabic Name": "شركة ضفاف الوادي",
+            "English Name": "Wadi Dafa Trading"
+        }
+    ],
+    "Contact Information": [
+        {
+            "E-mail": "",
+            "Mobile Number": "0"
+        }
+    ],
+    "Fiscal Information": [
+        "",
+        "31 December",
+        {
+            "CR Establishment Date": "11/07/1977",
+            "First Financial Year End": "11/07/1977",
+            "Fiscal Year End": "31/12/1977"
+        }
+    ],
+    "Legal Type": [
+        {
+            "Legal Type": "Limited Liability Company"
+        }
+    ],
+    "Registry Information": [
+        {
+            "Commercial Registration No": "1064339",
+            "Registration Date": "18/04/1978",
+            "Registration Status": "Active",
+            "Expiry Date": "21/06/2027"
+        }
+    ]
+}
